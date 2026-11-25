@@ -259,20 +259,7 @@ INSERT INTO data_issues VALUES
 -- SELECT * FROM products;
 
 
- #اجابات 
---   select * from order_clean;
---   SELECT status FROM orders GROUP by status; 
---   select city,count(*) from customers GROUP BY city;
---   SELECT status,order_date FROM order_clean WHERE status = 'Completed'  ORDER BY status  desc  ;
---   SELECT status , count(*) FROM order_clean WHERE status = 'Completed' ;
---   SELECT product_name,unit_price FROM products  ORDER BY product_name  ASC LIMIT 5 ;
--- SELECT o.customer_id,  p.product_name,o.order_date FROM order_clean o
--- LEFT JOIN products p on o.customer_id=p.product_id ;
--- SELECT product_name , sum(unit_price) FROM products GROUP BY product_name;
--- SELECT c.customer_name , o.status, COUNT(o.status) FROM customers c 
--- LEFT JOIN order_clean o ON c.customer_id= o.customer_id 
--- GROUP BY c.customer_name , o.status;
-
+ 
 
 
 
