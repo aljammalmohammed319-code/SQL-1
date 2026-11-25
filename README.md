@@ -37,6 +37,3 @@ A progressive collection of SQL practice scripts documenting my step-by-step lea
   - Follows the exact same concept as the second script, applied to a slightly larger dataset with more records and Focus:.
   - data cleaning*data cleaning** and standardization — *no data analysis*.
 
-- **sales_practice_4.sql (Data Cleaning – Stage 3):**
-  - The largest dataset in this cleaning series, building on the previous scripts with broader data inconsistencFocus:olve.
-data cleaningre **data cleaning** and validation — *no data analysis*. 
